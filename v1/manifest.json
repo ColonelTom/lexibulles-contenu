@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "version": 1,
+  "minAppVersion": "0.24.0",
+  "levels": {
+    "fr": {
+      "path": "levels/fr.json",
+      "bytes": 355310,
+      "sha256": "96e4603eaadb80c75b1a09176ad2d5163b33a363444c9e1bd3960b4cababdb16"
+    }
+  },
+  "images": {
+    "background": {
+      "path": "images/fond-grands-fonds.jpg",
+      "bytes": 141919,
+      "sha256": "d80d8442966ac662a2f5f90a342bf73d3bc1f3c2da9bfcc7c4872a31efd4b3fc"
+    }
+  }
+}
