@@ -1,0 +1,9 @@
+:root { --bg: #0a1a2e; --text: #e6f7ff; --soft: #9fc3d6; --cyan: #5ef2ff; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { color: var(--cyan); font-size: 1.8em; margin: 0 0 4px; }
+h2 { color: var(--cyan); font-size: 1.2em; margin-top: 2em; }
+p.date, footer { color: var(--soft); font-size: 0.9em; }
+a { color: var(--cyan); }
+ul { padding-left: 1.2em; }
